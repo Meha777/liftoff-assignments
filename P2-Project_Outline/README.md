@@ -9,21 +9,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
  This project is to create a website that users can use to create account, view drink and food menu, order, and pay for their order online. The project intends to accomplish login/validation,create database for the orders,and generate invoice/receipt for the user.
 ### Features
-*Login
-*View Menu
-*place order
-*Pay for the order
-*Generate invoice with estimated time when the drink/food would be ready
-*Logout
+-Login
+-View Menu
+-place order
+-Pay for the order
+-Generate invoice with estimated time when the drink/food would be ready
+-Logout
 ### Technologies
 1.Java
-1.Spring boot
-1.SQL
-1.Hibernate
-1.Thymeleaf
-1.JavaScript
-1.HTML
-1.CSS
+2.Spring boot
+3.SQL
+4.Hibernate
+5.Thymeleaf
+6.JavaScript
+7.HTML
+8.CSS
 ### What I'll Have to Learn
 * How to connect the java/Spring boot back end to the JavaScript/HTML/CSS front end.*
 ### Project Tracker
